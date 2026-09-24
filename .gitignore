@@ -1,0 +1,14 @@
+node_modules/
+dist/
+data/
+tmp/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+# Original personal documents remain private inputs, never public assets.
+*.pdf
+*.docx
+playwright-report/
+test-results/

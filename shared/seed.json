@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "profile": {
+    "name": "Asadkhon Rasulov",
+    "role": "Software developer & creative builder",
+    "headline": "Building useful things.\nMaking room for curiosity.",
+    "intro": "I'm Asadkhon, a Computer Science graduate from the University of Arizona. I build web experiences, explore games, and enjoy helping others learn how things work.",
+    "location": "",
+    "email": "armain319@gmail.com",
+    "github": "https://github.com/Alan7w",
+    "linkedin": "",
+    "availability": "",
+    "about": "My work connects software development, interactive experiences, and education. Alongside my degree, I supported Computer Organization and Calculus II students, helped organize HackAZ, and contributed to IT Park’s Local2Global project.\n\nI’m building on that foundation through hands-on projects in web and game development.",
+    "portrait": "/portrait.jpg"
+  },
+  "theme": {
+    "accent": "lime",
+    "surface": "paper",
+    "font": "editorial"
+  },
+  "sections": [
+    {
+      "id": "work",
+      "type": "projects",
+      "title": "Selected work",
+      "visible": true,
+      "items": [
+        {
+          "id": "safari",
+          "title": "Safari Marketplace",
+          "subtitle": "Web development",
+          "period": "",
+          "description": "A shopping-site prototype built from a supplied marketplace design during a ten-week web development roadmap.",
+          "tags": ["E-commerce prototype", "Web development"],
+          "url": "https://safari-marketplace.vercel.app/",
+          "featured": true,
+          "visible": true
+        },
+        {
+          "id": "cinema",
+          "title": "Movie Search & Theatre Booking",
+          "subtitle": "Web development",
+          "period": "",
+          "description": "A web app for discovering movies and simulating a cinema booking experience.",
+          "tags": ["Movie discovery", "Booking simulator"],
+          "url": "https://movie-search-booking-system.vercel.app/",
+          "featured": true,
+          "visible": true
+        },
+        {
+          "id": "games",
+          "title": "Play, built from scratch.",
+          "subtitle": "Game development",
+          "period": "",
+          "description": "A collection of team game projects exploring interactive experiences with Unity, C#, and Blender.",
+          "tags": ["Unity", "C#", "Blender"],
+          "url": "https://defenders-group8.itch.io/",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "ministore",
+          "title": "MiniStore",
+          "subtitle": "Web development",
+          "period": "",
+          "description": "A small shopping simulator exploring a basic online store experience.",
+          "tags": ["Store prototype"],
+          "url": "https://mini-store-flax.vercel.app/",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "weather",
+          "title": "Blog + Weather App",
+          "subtitle": "Web development",
+          "period": "",
+          "description": "A two-part app using JSONPlaceholder for sample blog content and OpenWeatherMap for location-based weather.",
+          "tags": ["APIs", "Weather"],
+          "url": "",
+          "featured": false,
+          "visible": false
+        }
+      ]
+    },
+    {
+      "id": "experience",
+      "type": "experience",
+      "title": "Along the way",
+      "visible": true,
+      "items": [
+        {
+          "id": "itpark",
+          "title": "Local2Global Intern",
+          "subtitle": "IT Park · Tashkent, Uzbekistan",
+          "period": "Jun — Jul 2025",
+          "description": "Researched local companies across several industries, gathered company data for Local2Global, and contributed to the design of a website showcasing local companies.",
+          "tags": ["Research", "Web design"],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "ugta",
+          "title": "Senior Undergraduate Teaching Assistant",
+          "subtitle": "University of Arizona · Computer Organization",
+          "period": "",
+          "description": "Mentored new teaching assistants, supported hiring and training, held office hours, and helped develop course materials and coordinate course staff.",
+          "tags": ["Mentoring", "Computer organization"],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "hackaz",
+          "title": "Student Organizer & Judge",
+          "subtitle": "HackAZ",
+          "period": "",
+          "description": "Designed coding challenges, helped judge hackathon projects, and supported event logistics and technical setup.",
+          "tags": ["Community", "Hackathons"],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "calculus",
+          "title": "Undergraduate Learning Assistant",
+          "subtitle": "University of Arizona · Calculus II",
+          "period": "",
+          "description": "Supported classroom activities, student tutoring, and exam proctoring. Reached out to students who needed additional support.",
+          "tags": ["Teaching", "Mathematics"],
+          "url": "",
+          "featured": false,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "toolkit",
+      "type": "skills",
+      "title": "A versatile toolkit",
+      "visible": true,
+      "items": [
+        {
+          "id": "programming",
+          "title": "Programming",
+          "subtitle": "",
+          "period": "",
+          "description": "",
+          "tags": ["Python", "Java", "C", "C#", "JavaScript", "MIPS Assembly"],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "web-games",
+          "title": "Web & interactive",
+          "subtitle": "",
+          "period": "",
+          "description": "",
+          "tags": ["HTML", "CSS", "Unity", "Blender"],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "tools",
+          "title": "Tools & platforms",
+          "subtitle": "",
+          "period": "",
+          "description": "",
+          "tags": ["Git", "GitHub", "JavaFX", "VS Code", "Bash", "Unix"],
+          "url": "",
+          "featured": false,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "type": "education",
+      "title": "Grounded in curiosity",
+      "visible": true,
+      "items": [
+        {
+          "id": "arizona",
+          "title": "B.A. in Computer Science",
+          "subtitle": "University of Arizona",
+          "period": "2022 — 2025",
+          "description": "Minor in Game Design & Development. Graduated December 2025.",
+          "tags": [
+            "Systems Programming",
+            "Compilers",
+            "Data Structures & Algorithms",
+            "Game Development",
+            "Data Science"
+          ],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "codepath",
+          "title": "Intro to Software Engineering",
+          "subtitle": "CodePath",
+          "period": "Summer 2022",
+          "description": "Additional learning in software engineering.",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "recognition",
+      "type": "custom",
+      "title": "Recognition",
+      "visible": true,
+      "items": [
+        {
+          "id": "deans",
+          "title": "Dean’s List with Distinction",
+          "subtitle": "University of Arizona",
+          "period": "",
+          "description": "",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "distinction",
+          "title": "Academic Year Highest Distinction Award",
+          "subtitle": "University of Arizona",
+          "period": "",
+          "description": "",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "scholarship",
+          "title": "El-Yurt Umidi scholarship recipient",
+          "subtitle": "",
+          "period": "2021",
+          "description": "",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "review-notes",
+      "type": "custom",
+      "title": "Private review notes",
+      "visible": false,
+      "items": [
+        {
+          "id": "review-dates",
+          "title": "Confirm teaching and HackAZ dates",
+          "subtitle": "",
+          "period": "",
+          "description": "Your résumé lists Computer Organization as Aug 2023–Present; Obyektivka lists Jan 2024–Dec 2025. Calculus II: Jan–May 2024 vs Sep 2023–May 2025. HackAZ: Jan–Mar 2025 vs Aug 2024–Apr 2025. Public dates are left blank until you confirm.",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "review-projects",
+          "title": "Give your projects more depth",
+          "subtitle": "",
+          "period": "",
+          "description": "Add your individual contributions, technologies, dates, and outcomes. The source documents do not give project-specific stacks or impact metrics. Project links come from your résumé and have not been independently verified.",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "review-weather",
+          "title": "Add a stable Blog + Weather link",
+          "subtitle": "",
+          "period": "",
+          "description": "This project is hidden because the original link is a temporary development tunnel. Add a stable URL, then make the project visible.",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "review-now",
+          "title": "Bring your story up to date",
+          "subtitle": "",
+          "period": "",
+          "description": "Add experience after December 2025, your current location, and availability if you want to share them. Confirm award titles and final GPA (résumé lists 3.770; not included publicly).",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        },
+        {
+          "id": "review-sources",
+          "title": "Your source documents",
+          "subtitle": "",
+          "period": "",
+          "description": "Starting content was transcribed from Resume (Asadkhon Rasulov).pdf and Obyektivka (Rasulov Asadkhon) (2).pdf. Family details, exact address, birth date, and phone are excluded. Original documents are not published. Upload source files in the library for private reference.",
+          "tags": [],
+          "url": "",
+          "featured": false,
+          "visible": true
+        }
+      ]
+    }
+  ]
+}
